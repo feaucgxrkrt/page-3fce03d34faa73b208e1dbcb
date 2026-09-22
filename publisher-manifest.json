@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "946c172c453920aca39b1df3",
+  "owner": "feaucgxrkrt",
+  "repo": "page-3fce03d34faa73b208e1dbcb",
+  "title": "GoFast",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3fce03d34faa73b208e1dbcb",
+      "a": "GoFast",
+      "b": "2027最新官网",
+      "entity": "GoFast",
+      "brand": "GoFast",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "98179f3f823b9c06b29bad8888f8f35c00b050a6682bbfe2faac506105d3a4dd",
+      "content": {
+        "primary_entity": "GoFast",
+        "keyword1": "GoFast",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows、macOS、Android、iOS 与路由器各有适配版本，安装后导入订阅即可。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先选套餐，再按客户端文档配置订阅，即可开始使用 GoFast 海外加速。",
+          "AI_CLOSING_TITLE": "选好套餐开始加速",
+          "AI_DESCRIPTION": "，提供按月与按年两种付费方式，基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 流量支持 5 台设备并优化游戏线路，团队版每月 1000GB 流量支持 20 台设备，适合小型工作室。选择时先确认常用设备数量，再对比流量额度与线路类型，最后按客户端文档导入订阅。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度挑选合适的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适配手机加电脑的组合，旗舰版覆盖多台常用设备，团队版可满足二十台设备同时在线。",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB，按日常用量选择即可。",
+          "AI_FEATURE_TEXT_3": "按月付费灵活，按年付费价格更低，基础版年付仅需 ¥150，旗舰版年付仅需 ¥350。",
+          "AI_FEATURE_TITLE_1": "先看设备数量",
+          "AI_FEATURE_TITLE_2": "再比流量额度",
+          "AI_FEATURE_TITLE_3": "最后定订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到开始使用的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "GoFast 海外加速器提供按月与按年两种付费方式，按设备数量、流量额度和线路类型划分基础版、旗舰版与团队版，覆盖手机、电脑与路由器等常用设备场景。",
+          "AI_HERO_SUBTITLE": "多设备海外加速选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按年付费价格更实惠",
+          "AI_HIGHLIGHT_3": "支持常见桌面与移动客户端",
+          "AI_PLANS_INTRO": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并优化游戏线路；团队版每月 1000GB、支持 20 台设备，可按设备数量与流量需求对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版和团队版之间确定一个套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与客户端类型，确认手机、电脑或路由器能够正常安装。",
+          "AI_STEP_TEXT_3": "依据对应客户端文档完成订阅导入与连接配置，随后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "GoFast 套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。个人日常使用建议从基础版开始，需要 IPLC 专线或更多设备在线可选择旗舰版。",
+          "AI_FAQ_ANSWER_2": "可以选择按年付，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。年付适合长期使用的用户，相比按月支付能减少续费频率。",
+          "AI_FAQ_ANSWER_3": "GoFast 支持 Windows、macOS、Android、iOS 等常见系统，不同客户端对系统版本要求不同。建议先查阅对应客户端的文档说明，再导入订阅链接进行配置。",
+          "AI_FAQ_ANSWER_4": "订阅配置需要从对应客户端文档中获取导入步骤，将订阅地址粘贴到客户端的订阅管理界面后更新节点列表。如果设备数量超出当前套餐限制，需要升级到支持更多设备的套餐。",
+          "AI_FAQ_ANSWER_5": "基础版适合轻度上网和基础流媒体访问，旗舰版解锁全节点原生流媒体并包含 IPLC 专线游戏加速优化，适合对流媒体和游戏线路有要求的用户。团队版提供 VIP 高带宽节点与企业定制路由，适合多人协作或企业场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "GoFast 三档套餐在流量和设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "GoFast 是否支持按年付费？",
+          "AI_FAQ_QUESTION_3": "GoFast 支持哪些设备系统？",
+          "AI_FAQ_QUESTION_4": "订阅配置时遇到设备数量限制怎么办？",
+          "AI_FAQ_QUESTION_5": "基础版和旗舰版适合什么样的使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fgstvgk.cn",
+    "host": "fgstvgk.cn"
+  },
+  "file_hashes": {
+    "index.html": "bdb535d592196ed0e248502d1b2b885046bbc20364e88425b365e5920e3a17e2",
+    "sitemap.xml": "290b4b24254de902739d9e8164b2edda28d8fa74372d62e38294dfb5c933b7b3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ef67d5d6dfeae058998bb6c1667f5865c8871d24b0d59ffbae19a6f72a6f9d0f",
+    "robots.txt": "900489576a11036f3fcda7e45c6fabb11448fe803d29f07b8fef0fbce3f5268f",
+    "40da95ac11a8820cd40999c3158bce77.txt": "57284086b9eef14ca7ba980fcc7d7abf2718727db18b9cb25504322a3b7c4ca2"
+  },
+  "revision": "91e0f0c357704038fe3692159959f2ef3223a196277e1a4a67bd7ce6f5c8034f"
+}
